@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Elton Richard"
   avatar           : "/images/me.jpg"
-  bio              : "Information Security | DevNet Advocate | Telecommunications Engineer"
+  bio              : "Information Security |DevNet Advocate |Telecommunications Engineer"
   location         : "Tanzania"
   email            :
   links:
@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/eltchard"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -128,6 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://linkedin.com/in/elton-richard-99181ab3"
 
 # Site Footer
 footer:
